@@ -1,4 +1,4 @@
-****Plant Disease Detection********
+****Plant Disease Detection****
 
 This repository contains code for a plant disease detection project, specifically focusing on the detection of diseases in corn (maize) plant leaves. The project uses the PlantVillage dataset, which can be found on Kaggle [here]([url](https://www.kaggle.com/abdallahalidev/plantvillage-dataset)).
 
@@ -12,6 +12,7 @@ The dataset used for this project is the PlantVillage dataset available on Kaggl
 To use the dataset, you can download it from the Kaggle link provided above and place the images in the appropriate data folders before running the code.
 
 **Installation**
+
 1. Clone this repository to your local machine using git clone https://github.com/your-username/plant-disease-detection.git
 2. Navigate to the project directory: cd plant-disease-detection
 3. Install the required dependencies:
@@ -31,6 +32,7 @@ To use the dataset, you can download it from the Kaggle link provided above and 
 5. This will open the Jupyter Lab interface in your default web browser, where you can access the project notebooks.
 
 **Usage**
+
 --> Make sure you have downloaded the PlantVillage dataset and organized the images of corn plant leaves in appropriate folders.
 
 --> Modify the configuration file, if necessary, to adjust hyperparameters, data paths, or other settings for the model.
@@ -38,6 +40,7 @@ To use the dataset, you can download it from the Kaggle link provided above and 
 --> Run the main notebook in order chunks to train the model
 
 **Contributing**
+
 Contributions to this repository are always welcome. If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
 When contributing to this project, please follow the code of conduct and adhere to the coding standards for consistency.
